@@ -1,0 +1,42 @@
+*{
+	margin=0;
+	padding=0;
+	box-sizing:border-box;
+}
+div{
+	width:70%;
+	height:1000px;
+	background-color:lightgreen;
+	border:5px solid black;
+	border-radius:40px 0px 4opx opx;
+	margin:auto;
+}
+.center{
+	border:1px solid gold;
+	width:50%;
+	height:5opx;
+	display:block;
+	margin-left:250px;
+	margin-top:50px;
+}
+h1{
+	text-align:center;
+	color:darkviolet;
+	font-size:50px;
+}
+p{
+	color:crimson;
+	font-size:25px;
+	margin-left:50px;
+	margin-right:50px;
+}
+button{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:50px;
+	width:300px;
+	border:3px solid blue;
+	margin-left:300px;
+	
+}
